@@ -1,3 +1,4 @@
+'use client';
 import { useState } from "react";
 import Image from "next/image";
 import { IoCopyOutline } from "react-icons/io5";
